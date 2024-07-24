@@ -1,0 +1,8 @@
+C:\Users\Egehan\Desktop\QuartzzDev\QuaChatting\QuaChattingApp\QuaChattingApp\bin\Debug\QuaChattingApp.exe.config
+C:\Users\Egehan\Desktop\QuartzzDev\QuaChatting\QuaChattingApp\QuaChattingApp\bin\Debug\QuaChattingApp.exe
+C:\Users\Egehan\Desktop\QuartzzDev\QuaChatting\QuaChattingApp\QuaChattingApp\bin\Debug\QuaChattingApp.pdb
+C:\Users\Egehan\Desktop\QuartzzDev\QuaChatting\QuaChattingApp\QuaChattingApp\obj\Debug\QuaChattingApp.csproj.AssemblyReference.cache
+C:\Users\Egehan\Desktop\QuartzzDev\QuaChatting\QuaChattingApp\QuaChattingApp\obj\Debug\QuaChattingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egehan\Desktop\QuartzzDev\QuaChatting\QuaChattingApp\QuaChattingApp\obj\Debug\QuaChattingApp.csproj.CoreCompileInputs.cache
+C:\Users\Egehan\Desktop\QuartzzDev\QuaChatting\QuaChattingApp\QuaChattingApp\obj\Debug\QuaChattingApp.exe
+C:\Users\Egehan\Desktop\QuartzzDev\QuaChatting\QuaChattingApp\QuaChattingApp\obj\Debug\QuaChattingApp.pdb

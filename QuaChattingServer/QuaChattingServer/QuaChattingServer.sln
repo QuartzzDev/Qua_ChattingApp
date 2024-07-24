@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuaChattingServer", "QuaChattingServer.csproj", "{343A12A4-221D-4106-8771-A5D76336D737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{343A12A4-221D-4106-8771-A5D76336D737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343A12A4-221D-4106-8771-A5D76336D737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343A12A4-221D-4106-8771-A5D76336D737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343A12A4-221D-4106-8771-A5D76336D737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3264FD6-9C26-47CD-9EF1-5D220E6BAB9B}
+	EndGlobalSection
+EndGlobal
